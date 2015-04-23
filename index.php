@@ -1,1 +1,3 @@
-<?php header("Location: main.php")?>
+<?php include"header.php"; ?>
+<?php include"main.php"; ?>
+<?php include"footer.html"; ?>

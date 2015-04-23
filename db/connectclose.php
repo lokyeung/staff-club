@@ -1,4 +1,4 @@
 <?php 
 // Close connection
-$conn->close(); 
+db2_close($conn);
 ?>
