@@ -1,3 +1,7 @@
-<?php include"header.php"; ?>
-<?php include"main.php"; ?>
-<?php include"footer.html"; ?>
+<?php include'header.php'; ?>
+<?php include'main.php'; ?>
+<script type='text/javascript'>
+
+
+</script>
+<?php include'footer.html'; ?>
